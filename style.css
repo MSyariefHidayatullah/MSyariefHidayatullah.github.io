@@ -42,16 +42,6 @@ header{
     border-radius: 8px;
     cursor: pointer;
 }
-nav ul{
-    display: flex;
-    padding: 20px;
-}
-li{
-    list-style-type: none;
-    padding: 10px;
-	transition: all .5s ease 0s;
-    display: inline-block;
-}
 .container {
   max-width: 800px;
   margin: auto;
